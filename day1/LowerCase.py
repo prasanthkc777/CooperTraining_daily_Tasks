@@ -1,2 +1,2 @@
-s=str(input())
-print(s.lower())
+string=str(input())
+print(string.lower())
